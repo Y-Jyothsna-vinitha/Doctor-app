@@ -1,0 +1,56 @@
+{
+  "doctors": [
+    {
+      "name": "vinitha",
+      "salary": "35000",
+      "gender": "female",
+      "age": "23",
+      "specialization": "cardiologist",
+      "id": 1
+    },
+    {
+      "name": "jyothsna",
+      "salary": "30000",
+      "gender": "female",
+      "age": "23",
+      "specialization": "general",
+      "id": 2
+    },
+    {
+      "name": "venkat",
+      "salary": "28000",
+      "gender": "male",
+      "age": "25",
+      "specialization": "neurologist",
+      "id": 3
+    },
+    {
+      "name": "kumar ",
+      "salary": "35000",
+      "gender": "female",
+      "age": "23",
+      "specialization": "physician",
+      "id": 4
+    }
+  ],
+  "patients": [
+    {
+      "name": "Rani",
+      "weight": "45kg",
+      "gender": "female",
+      "age": "25",
+      "disease": "heart attack",
+      "doctor": "vinitha",
+      "id": 1
+    },
+    {
+      "name": "vasanth",
+      "weight": "60kg",
+      "gender": "male",
+      "age": "60",
+      "disease": "paralysis",
+      "doctor": "venkat",
+      "id": 2
+    }
+  ]
+}
